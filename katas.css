@@ -1,0 +1,26 @@
+body {
+    background-color: #494949;
+    color: #eaeaea
+}
+table {
+    border: 2px solid #FF0000;
+    
+}
+td {
+    text-align: center;
+    padding: 0.5em;
+    border: 2px solid #FF0000;
+}
+th {
+    padding: 0.5em;
+    border: 2px solid #FF0000;
+}
+a:link {
+    color: #FF0000;
+}
+a:visited {
+    color: #FF0000;
+}
+a:hover {
+    color: #FF0000;
+}
